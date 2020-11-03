@@ -1,0 +1,6 @@
+D:\Software development\.NET CSharp\Modul 1\Termin09\primeri\Termin09Primer03\Termin09Primer03\bin\Debug\Termin09Primer03.exe.config
+D:\Software development\.NET CSharp\Modul 1\Termin09\primeri\Termin09Primer03\Termin09Primer03\bin\Debug\Termin09Primer03.exe
+D:\Software development\.NET CSharp\Modul 1\Termin09\primeri\Termin09Primer03\Termin09Primer03\bin\Debug\Termin09Primer03.pdb
+D:\Software development\.NET CSharp\Modul 1\Termin09\primeri\Termin09Primer03\Termin09Primer03\obj\Debug\Termin09Primer03.csprojAssemblyReference.cache
+D:\Software development\.NET CSharp\Modul 1\Termin09\primeri\Termin09Primer03\Termin09Primer03\obj\Debug\Termin09Primer03.exe
+D:\Software development\.NET CSharp\Modul 1\Termin09\primeri\Termin09Primer03\Termin09Primer03\obj\Debug\Termin09Primer03.pdb
